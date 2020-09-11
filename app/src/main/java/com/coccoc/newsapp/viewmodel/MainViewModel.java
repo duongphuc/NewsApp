@@ -1,6 +1,5 @@
 package com.coccoc.newsapp.viewmodel;
 
-import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.coccoc.newsapp.SingleLiveEvent;

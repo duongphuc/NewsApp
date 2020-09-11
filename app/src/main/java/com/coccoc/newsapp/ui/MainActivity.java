@@ -7,14 +7,12 @@ import androidx.appcompat.app.AppCompatDelegate;
 import androidx.databinding.DataBindingUtil;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.coccoc.newsapp.BR;
 import com.coccoc.newsapp.R;
 import com.coccoc.newsapp.ViewModelFactory;
 import com.coccoc.newsapp.databinding.MainActivityBinding;
-import com.coccoc.newsapp.databinding.MainFragmentBinding;
 import com.coccoc.newsapp.viewmodel.MainViewModel;
 
 public class MainActivity extends AppCompatActivity {
