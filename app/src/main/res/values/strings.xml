@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsAppDemo</string>
+    <string name="dark_mode">Dark mode</string>
+</resources>
